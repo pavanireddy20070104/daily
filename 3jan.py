@@ -13,3 +13,14 @@ print(sum)
 n=int(input("enter n value:"))
 for i in range(1,11):
   print(f"{n}*{i}={n*i}")
+
+//Print numbers from 10 to 1.
+for i in range(10,0,-1):
+  print(i)
+
+//Print all even numbers from 1 to 50.
+sum=0
+for i in range(1,51):
+  sum=sum+i
+  print(sum)
+
