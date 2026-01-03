@@ -24,3 +24,10 @@ for i in range(1,51):
   sum=sum+i
   print(sum)
 
+//count numbers between 1 and 100
+count=0
+for i in range(1,101):
+  count+=i
+print(count)
+
+
