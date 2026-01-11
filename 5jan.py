@@ -9,4 +9,3 @@ public class age{
       System.out.println("your age is "+ age);
   }
 }
-
