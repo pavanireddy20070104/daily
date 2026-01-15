@@ -36,6 +36,7 @@ public class numbers{
  }
 }
 
+
 //Write a Java program to check whether a number is positive, negative, or zero.
 import java.util.Scanner;
 public class number{
