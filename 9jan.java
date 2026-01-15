@@ -15,7 +15,6 @@ public class number{
   }
 }
 
-
 //Write a Java program to find the largest of two numbers.
 
 import java.util.Scanner;
