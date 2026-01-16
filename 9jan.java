@@ -53,10 +53,3 @@ public class number{
     sc.close();
   }
 }
-
-//Write a Java program to check whether a year is a leap year.
-import java.util.Scanner;
-public class year{
- public static void main(String[]args);
-  
-}
