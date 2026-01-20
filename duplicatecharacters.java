@@ -29,3 +29,5 @@ public class duplicatecharacters{
         sc.close();
     }
 }
+
+
